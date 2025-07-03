@@ -103,14 +103,15 @@ Berikut adalah tangkapan layar dari berbagai tampilan antarmuka aplikasi SIMPRAK
 
 ### 12. Tambah Modul Baru (asisten/module_add.php)
 (Contoh URL: `http://localhost/20230140216_UAS_PDW/asisten/module_add.php?praktikum_id=3`)
-![praktikum_add](https://github.com/user-attachments/assets/4837e84f-396a-4386-9158-e8a62a9d25cd)
+![module_add](https://github.com/user-attachments/assets/222a01ba-e575-4601-af61-c567cde54f41)
+
 
 
 ---
 
 ### 13. Edit Modul (asisten/module_edit.php)
 (Contoh URL: `http://localhost/20230140216_UAS_PDW/asisten/module_edit.php?id=1&praktikum_id=3`)
-![praktikum_edit](https://github.com/user-attachments/assets/6f0d7402-5577-4bcf-a072-fb2960e00b03)
+![module_edit](https://github.com/user-attachments/assets/168527fa-ddaf-4119-a8df-6c8fd9eff446)
 
 
 ---

@@ -29,109 +29,124 @@ Berikut adalah tangkapan layar dari berbagai tampilan antarmuka aplikasi SIMPRAK
 
 ### 1. Halaman Registrasi (Register.php)
 (Contoh URL: `http://localhost/20230140216_UAS_PDW/register.php`)
-![Screenshot Registrasi](screenshots/register.png)
+![register](https://github.com/user-attachments/assets/e85942bf-2689-4650-84ce-dfdeb149f4cc)
+
 
 ---
 
 ### 2. Halaman Login (Login.php)
 (Contoh URL: `http://localhost/20230140216_UAS_PDW/login.php`)
-![Screenshot Login](screenshots/login.png)
+![login](https://github.com/user-attachments/assets/9591a2df-3e0f-49e9-a27b-14ef88f3d402)
 
 ---
 
 ### 3. Katalog Mata Praktikum (Katalog_praktikum.php)
 (Contoh URL: `http://localhost/20230140216_UAS_PDW/katalog_praktikum.php`)
-![Screenshot Katalog Praktikum](screenshots/katalog_praktikum.png)
+![katalog_praktikum](https://github.com/user-attachments/assets/c4c4cbe2-8bcc-4777-b384-a22133c22677)
+
 
 ---
 
 ### 4. Detail Praktikum Mahasiswa (Detail_praktikum.php)
 (Contoh URL: `http://localhost/20230140216_UAS_PDW/detail_praktikum.php?id=3`)
-![Screenshot Detail Praktikum Mahasiswa](screenshots/detail_praktikum_mhs.png)
+![detail_praktikum](https://github.com/user-attachments/assets/05bbd135-6390-4650-a73d-42229ba8ebe1)
 
 ---
 
 ### 5. Dashboard Mahasiswa (mahasiswa/dashboard.php)
 (Contoh URL: `http://localhost/20230140216_UAS_PDW/mahasiswa/dashboard.php`)
-![Screenshot Dashboard Mahasiswa](screenshots/dashboard_mahasiswa.png)
+![dashboard_mahasiswa](https://github.com/user-attachments/assets/4b62d1d5-818d-4565-85ef-bd6c6c3a9e8d)
+
 
 ---
 
 ### 6. Praktikum yang Diikuti Mahasiswa (mahasiswa/praktikum_saya.php)
 (Contoh URL: `http://localhost/20230140216_UAS_PDW/mahasiswa/praktikum_saya.php`)
-![Screenshot Praktikum Saya](screenshots/praktikum_saya.png)
+![praktikum_saya](https://github.com/user-attachments/assets/842bb00f-582d-4c3f-b84c-225cc787063f)
 
 ---
 
 ### 7. Dashboard Asisten (asisten/dashboard.php)
 (Contoh URL: `http://localhost/20230140216_UAS_PDW/asisten/dashboard.php`)
-![Screenshot Dashboard Asisten](screenshots/dashboard_asisten.png)
+![dashboaard_asisten](https://github.com/user-attachments/assets/19083fa6-9cdd-4a06-b297-5c7bf2985b38)
+
 
 ---
 
 ### 8. Kelola Mata Praktikum Asisten (asisten/praktikum_management.php)
 (Contoh URL: `http://localhost/20230140216_UAS_PDW/asisten/praktikum_management.php`)
-![Screenshot Kelola Praktikum Asisten](screenshots/praktikum_management.png)
+![praktikum_management](https://github.com/user-attachments/assets/72f0ac5d-e212-429d-8886-72bf9c52af7f)
+
 
 ---
 
 ### 9. Tambah Praktikum Baru (asisten/praktikum_add.php)
 (Contoh URL: `http://localhost/20230140216_UAS_PDW/asisten/praktikum_add.php`)
-![Screenshot Tambah Praktikum](screenshots/praktikum_add.png)
+![praktikum_add](https://github.com/user-attachments/assets/7ac10925-261e-4dc2-a36c-86b5fb60a803)
+
 
 ---
 
 ### 10. Edit Praktikum (asisten/praktikum_edit.php)
 (Contoh URL: `http://localhost/20230140216_UAS_PDW/asisten/praktikum_edit.php?id=1`)
-![Screenshot Edit Praktikum](screenshots/praktikum_edit.png)
+![praktikum_edit](https://github.com/user-attachments/assets/e784df61-3d73-4e18-9a1e-1ac52c17dd49)
+
 
 ---
 
 ### 11. Kelola Modul (asisten/module_management.php)
 (Contoh URL: `http://localhost/20230140216_UAS_PDW/asisten/module_management.php?praktikum_id=3`)
-![Screenshot Kelola Modul](screenshots/module_management.png)
+![module_management](https://github.com/user-attachments/assets/a0d3005b-68ee-47c9-acae-51529d2f4927)
+
 
 ---
 
 ### 12. Tambah Modul Baru (asisten/module_add.php)
 (Contoh URL: `http://localhost/20230140216_UAS_PDW/asisten/module_add.php?praktikum_id=3`)
-![Screenshot Tambah Modul](screenshots/module_add.png)
+![praktikum_add](https://github.com/user-attachments/assets/4837e84f-396a-4386-9158-e8a62a9d25cd)
+
 
 ---
 
 ### 13. Edit Modul (asisten/module_edit.php)
 (Contoh URL: `http://localhost/20230140216_UAS_PDW/asisten/module_edit.php?id=1&praktikum_id=3`)
-![Screenshot Edit Modul](screenshots/module_edit.png)
+![praktikum_edit](https://github.com/user-attachments/assets/6f0d7402-5577-4bcf-a072-fb2960e00b03)
+
 
 ---
 
 ### 14. Laporan Masuk Asisten (asisten/report_inbox.php)
 (Contoh URL: `http://localhost/20230140216_UAS_PDW/asisten/report_inbox.php`)
-![Screenshot Laporan Masuk](screenshots/report_inbox.png)
+![report_inbox](https://github.com/user-attachments/assets/6a82d892-4228-4711-9f83-6913e394c6f5)
+
 
 ---
 
 ### 15. Beri Nilai Laporan (asisten/grade_report.php)
 (Contoh URL: `http://localhost/20230140216_UAS_PDW/asisten/grade_report.php?report_id=1`)
-![Screenshot Beri Nilai Laporan](screenshots/grade_report.png)
+![grade_report](https://github.com/user-attachments/assets/25fd3635-d3c3-42db-85a1-c87d6c85a64b)
+
 
 ---
 
 ### 16. Kelola Akun Pengguna Asisten (asisten/user_management.php)
 (Contoh URL: `http://localhost/20230140216_UAS_PDW/asisten/user_management.php`)
-![Screenshot Kelola Akun Pengguna](screenshots/user_management.png)
+![user_management](https://github.com/user-attachments/assets/a4f13831-5a52-4b8d-acae-f9c988ce00d0)
+
 
 ---
 
 ### 17. Tambah Akun Pengguna (asisten/user_add.php)
 (Contoh URL: `http://localhost/20230140216_UAS_PDW/asisten/user_add.php`)
-![Screenshot Tambah Akun Pengguna](screenshots/user_add.png)
+![user_add](https://github.com/user-attachments/assets/42148073-5652-41fc-a877-0c27a43ed490)
+
 
 ---
 
 ### 18. Edit Akun Pengguna (asisten/user_edit.php)
 (Contoh URL: `http://localhost/20230140216_UAS_PDW/asisten/user_edit.php?id=1`)
-![Screenshot Edit Akun Pengguna](screenshots/user_edit.png)
+![user_edit](https://github.com/user-attachments/assets/adbb7b32-dc11-4a9c-b91b-c606f1967dfd)
+
 
 ---
 
